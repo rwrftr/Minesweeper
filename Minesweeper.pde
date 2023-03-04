@@ -1,6 +1,6 @@
 import de.bezier.guido.*;
 int frameSize;
-int numBombs = 5;
+int numBombs = 40;
 int squaresize = 20;
 int NUM_COLS = squaresize;
 int NUM_ROWS = squaresize;
